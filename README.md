@@ -6,3 +6,5 @@ This is my personal project where I wanted to:
 3. Create a few different versions of line charts (basic, animated, bokeh) showing this percentage over time.
 
 I make no claim in the accuracy of this data (and I understand that the more recent data available "are preliminary and are subject to change based on additional reporting") nor should this be used for any epidemiological study.
+
+If the charts are not showing properly, please try https://nbviewer.jupyter.org/github/robonedozen/dc_covid19_data/blob/master/DC%20COVID%20Data_Final.ipynb

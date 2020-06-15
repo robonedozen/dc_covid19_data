@@ -9,4 +9,4 @@ I make no claim in the accuracy of this data (and I understand that the more rec
 
 If the charts are not showing properly, please try https://nbviewer.jupyter.org/github/robonedozen/dc_covid19_data/blob/master/DC%20COVID%20Data_Final.ipynb
 
-*Current charts use data from March 13, 2020 through June 9, 2020 
+*Current charts use data from March 13, 2020 through June 14, 2020 

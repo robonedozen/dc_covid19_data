@@ -7,6 +7,6 @@ This is my personal project where I wanted to:
 
 I make no claim in the accuracy of this data (and I understand that the more recent data available "are preliminary and are subject to change based on additional reporting") nor should this be used for any epidemiological study.
 
-If the charts are not showing properly, please try https://nbviewer.jupyter.org/github/robonedozen/dc_covid19_data/blob/master/DC%20COVID%20Data_2020-06-15.ipynb
+If the charts are not showing properly, please try https://nbviewer.jupyter.org/github/robonedozen/dc_covid19_data/blob/master/DC%20COVID%20Data_2020-08-14.ipynb
 
-*Current charts use data from March 13, 2020 through June 14, 2020 
+*Current charts use data from March 13, 2020 through August 14, 2020 
